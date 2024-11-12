@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @i-4-4wk
 - 👀 I’m interested in math . physics . cybersecurity . programing . problem solving 
-- 🌱 I’m currently learning pythin c++ . higher math nd physics
+- 🌱 I’m currently learning pythin . c++ . higher math nd physics
 - 💞️ I’m looking to collaborate on . google . space x . 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
